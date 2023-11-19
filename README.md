@@ -51,4 +51,10 @@ and then opening [Insomnia](https://insomnia.rest/download).
 
 ## Example
 
-There is an example video in the assets folder to view how I used Insomnia to test this app.
+Google Drive link to Walkthorugh video:
+https://drive.google.com/file/d/1drh3gDkPo0TeOH5otBGv0-sZT0-sIB1S/view?usp=drive_link
+
+ 
+
+## Credits
+Code assistance & finalization assisted by Amy Gardiner - Full Stack Web Developer
